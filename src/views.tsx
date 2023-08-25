@@ -8,5 +8,4 @@ const Views = () => {
         </Routes>
     );
 };
-
 export default Views;
