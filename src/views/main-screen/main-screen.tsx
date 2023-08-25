@@ -11,7 +11,6 @@ export function MainScreen() {
                         style={{
                             fontWeight: "bold",
                             textAlign: "center",
-                            paddingTop: "50%",
                         }}
                     >
                         Hello world
